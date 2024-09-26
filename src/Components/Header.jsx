@@ -5,7 +5,7 @@ import Image3 from '../Images/nft.png'
 import Image4 from '../Images/leaf.png'
 const Header = () => {
   return (
-    <div className='Header w-full h-[26rem] bg-green-600'>
+    <div className='Header w-full h-[30rem] bg-green-600 pt-20'>
       <center>
         <h1 className='text-5xl text-white font-bold pt-12'>Green Protocol</h1>
       </center>
