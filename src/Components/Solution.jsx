@@ -43,6 +43,7 @@ const Solution = () => {
          </div>
       {/* Cards Row 2 */}
          </div>
+         {/* Discovery's Images */}
          <div className='flex flex-row ms-[9rem] gap-0'>
          <div className='card bg-green-500 w-[14.5rem] h-[19rem] flex align-middle justify-center pt-2 flex-col'>
           <img src={images5} className='h-[10rem] w-[10rem] ms-[2.2rem] my-3'/>
@@ -62,25 +63,25 @@ const Solution = () => {
          </div>
          </div>
          <div className='discoveryofgreenProto mt-[5rem] ms-[9rem]'>
-              <div className='2imgPair flex flex-row border-4 border-green-600 w-[58.5rem]'>
-                  <img src={images9} className='w-[28rem]  m-2'/>
-                  <img src={images10} className='w-[28rem]  m-2'/>
+              <div className='2imgPair flex flex-row border-4 border-green-600 w-[57.5rem]'>
+                  <img src={images9} className='w-[28rem]  m-1'/>
+                  <img src={images10} className='w-[28rem]  m-1'/>
               </div>
-              <div className='2imgPair flex flex-row border-4 border-green-600 w-[58.5rem] mt-5'>
-                  <img src={images11} className='w-[28rem]  m-2'/>
-                  <img src={images12} className='w-[28rem]  m-2'/>
+              <div className='2imgPair flex flex-row border-4 border-green-600 w-[57.5rem] mt-5'>
+                  <img src={images11} className='w-[28rem]  m-1'/>
+                  <img src={images12} className='w-[28rem]  m-1'/>
               </div>
-              <div className='2imgPair flex flex-row border-4 border-green-600 w-[58.5rem] mt-5'>
-                  <img src={images13} className='w-[28rem]  m-2'/>
-                  <img src={images14} className='w-[28rem]  m-2'/>
+              <div className='2imgPair flex flex-row border-4 border-green-600 w-[57.5rem] mt-5'>
+                  <img src={images13} className='w-[28rem]  m-1'/>
+                  <img src={images14} className='w-[28rem]  m-1'/>
               </div>
-              <div className='2imgPair flex flex-row border-4 border-green-600 w-[58.5rem] mt-5'>
-                  <img src={images15} className='w-[28rem]  m-2'/>
-                  <img src={images16} className='w-[28rem]  m-2'/>
+              <div className='2imgPair flex flex-row border-4 border-green-600 w-[57.5rem] mt-5'>
+                  <img src={images15} className='w-[28rem]  m-1'/>
+                  <img src={images16} className='w-[28rem]  m-1'/>
               </div>
-              <div className='2imgPair flex flex-row border-4 border-green-600 w-[58.5rem] mt-5'>
-                  <img src={images17} className='w-[28rem]  m-2'/>
-                  <img src={images18} className='w-[28rem]  m-2'/>
+              <div className='2imgPair flex flex-row border-4 border-green-600 w-[57.5rem] mt-5'>
+                  <img src={images17} className='w-[28rem]  m-1'/>
+                  <img src={images18} className='w-[28rem]  m-1'/>
               </div>
          </div>
     </div>
