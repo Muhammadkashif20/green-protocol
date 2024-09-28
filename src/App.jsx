@@ -4,7 +4,7 @@ import Problems from "./Components/Problems"
 import Solution from "./Components/Solution"
 import BusinessModel from "./Components/BusinessModel"
 import Example from "./Components/Example"
-import Footer from "./Components/Footer"
+// import Footer from "./Components/Footer"
 function App() {
   return (
     <>
@@ -15,7 +15,7 @@ function App() {
         <Solution/>
         <BusinessModel/>
         <Example/>
-        <Footer/>
+
       </div>
     </>
   )
