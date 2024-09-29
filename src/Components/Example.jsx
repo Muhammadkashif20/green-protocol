@@ -6,7 +6,7 @@ import image4 from "../Images/example-Diagram3.png";
 import image5 from "../Images/r-arrow.png";
 import image6 from "../Images/example-Diagram4.png";
 import image7 from "../Images/r-arrow2.png";
-import image8 from "../Images/box1.png";
+import image8 from "../Images/Box1.png"
 import image9 from "../Images/boxesp2Card.png";
 
 const Example = () => {
